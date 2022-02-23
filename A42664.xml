@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The German princess revived, or, The London jilt being a true account of the life and death of Jenney Voss, who, after she had been transported for being concerned with Sadler about eight years past stealing my Lord Chancellors mace, published from her own confession.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42664</idno>
+            <idno type="STC">Wing G613</idno>
+            <idno type="STC">ESTC R7709</idno>
+            <idno type="EEBO-CITATION">12251657</idno>
+            <idno type="OCLC">ocm 12251657</idno>
+            <idno type="VID">57134</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42664)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57134)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 145:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The German princess revived, or, The London jilt being a true account of the life and death of Jenney Voss, who, after she had been transported for being concerned with Sadler about eight years past stealing my Lord Chancellors mace, published from her own confession.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Voss, Jenney, d. 1684.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title">
+            <pb facs="tcp:57134:1"/>
+            <p>The German Princeſs Revived: OR <hi>The London Iilt:</hi> Being a True ACCOUNT of the LIFE and DEATH OF Jenney Voſs, WHO After ſhe had been Tranſported for being concerned with <hi>Sadler</hi> about Eight Years paſt in Stealing my Lord Chan<g ref="char:EOLhyphen"/>cellors <hi>Mace,</hi> and ſeveral times ſince Convicted of repeated Fellonies was Executed On <hi>Friday</hi> the 19<hi>th</hi> of <hi>December,</hi> 1684 at <hi>TYBURN</hi>
+            </p>
+            <p>Publiſhed from her own Confeſſion.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <p>AMongſt the many Inſtances of Perſons Infamouſly Remarkable for their Predatory and ill Lives. none certainly ever Surrendred their Breath at the <hi>Fatal Tree,</hi> leaving behind them a Name more generally known for all ſorts of Crimes, than the Subject we are now Treating of: Inſomuch, that but to mention <hi>Jenny Vo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> is a ſufficient proof thereof; ſhe having even from her Youth follow<g ref="char:EOLhyphen"/>ed the Thieving Trade, and grown ſo Famous therein, that few who live in <hi>London,</hi> are Strangers to her Name and Reputation. She was as ſhe faith her ſelf, Born in the Pariſh of St. <hi>Giles</hi>'s in the <hi>Fields,</hi> of Parents Reaſonably well to Paſs, and Honeſty ſufficient to have given them more Hopes and Comfort than they found in their Daughter: Who tho they Lived not to ſee her Fatal End, yet in the Buddings of her Youth percieving ſo much by her to their great Diſcomfort; and almoſt Heart breaking, eaſily imagined what Fruit ſhe was afterwards too likely to yield. For having ar<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ived to the
+<pb n="2" facs="tcp:57134:2"/> Age of Eleven Years, her Father and Mother being one Day Invited a-broad to Dinner, ſhe took the Opportunity, and finding where her Mother had laid up ſome Money to the value of 30 or 40 <hi>s.</hi> upon a Shelf in the Kitchen, ſhe took the ſame, together with the Handkerchief wherein it was tied, and puts them into her Pocket; but being to exerciſe her Wits to prevent the Diſcovery of this her firſt Crime, they ſtood by her in the ſtreſs, and Dic<g ref="char:EOLhyphen"/>tated to her the following Exploit: Her Mother had a <hi>Monkey</hi> which ſhe Loved, which was uſually kept in the Kitchen before mentioned, and obſerving that ſomtimes, as it is general with thoſe Creatures, they are apt if they get Liberty, to carry away and hide what next comes before them: She ac<g ref="char:EOLhyphen"/>cordingly lets him Looſe, and drives him up into the Leads, where follow<g ref="char:EOLhyphen"/>ing him, ſhe flings the Handkerchief in which the Money was wrapped after him, and ſcattering 3 or 4 pieces thereof about the Gutter, leaves him there till her Mother came in, who miſſing the <hi>Monkey,</hi> Inquires of her Daughter how it got Looſe and where it was, to which ſhe readily anſwered that it had knawed the Cord that tied it whileſt ſhe was Abſent and had got into the Leads; the Mother ſuſpecting nothing further went up Stairs to ſeek it, where looking out of Window, ſhe eſpied the Handkerchief and the ſcatter<g ref="char:EOLhyphen"/>ed pieces aforeſaid, which made her ſeverely angry with poor <hi>Pugg,</hi> and lay the Crime at his Door that was not Guilty thereof. This Exploit having thus happily ſucceeded, young <hi>Jane</hi> began to think her ſelf Miſtris of great Cunning<g ref="char:punc">▪</g> and ſeveral times afterwards repeating her Domeſtick Thievery's, was at laſt found out by the means of another young Wench that was a Neighbours Daughter, and a great Comrade of <hi>Jenny</hi>'s, with whom ſhe uſed to ſpend her Moneys, and to whoſe Breaſt ſhe communicated all her Secrets: Theſe two having one Day fell out upon the account of a little Jealouſie between them, which was occaſioned by the addreſs of a young Apprentice Boy, (that uſed to call <hi>Jenny</hi> his Sweet Heart) to this her Com<g ref="char:EOLhyphen"/>rade, with whom the Night before ſhe had found him too Familiarly a Tri<g ref="char:EOLhyphen"/>fling; upon which <hi>Jenny</hi> was, ſo Enraged that ſhe flew upon the Young Wench, and having torn her Head geer and grievouſly Beat her, called her whatſoever her Angry Rhetorick in the firſt heates of Paſſion dictated to her: Which her Comrade laying to Heart, not being able to revenge her ſelf other<g ref="char:EOLhyphen"/>wiſe ſhe went and immediately diſcovered the Secrets of all <hi>Jenny</hi>'s Pranks to her Mother who was ſtrangly Surpriſed thereat, and began to Examine her Daughter about it: who tho ſhe abſolutely denied the Fact' yet it being ſo plainly proved againſt her, diverſe other Circumſtances corrobora<g ref="char:EOLhyphen"/>ting the ſame; a ſevere Puniſhment was threatned againſt her, which from her Fathers Paſſionate humour ſhe knew would be aggravated when he came to know her crime to whom her Mother reſerved the Conſideration till his coming home that Evening.</p>
+            <p>In the mean while <hi>Jenny</hi> being apprehenſive of his Anger, was reſolved whatever came of it, if ſhe could get the opportunity, to get out and be gone, not much careing whether, ſo ſhe could avoid the Storm that now Threatned her, and accordingly being Locked up in her Room, it being late before her Father Returned, her Mother going out to ſeek him, ſhe packs up her Cloaths, and tying the two Sheets together ſlipt out of the Window,
+<pb n="3" facs="tcp:57134:2"/> and betook herſelf to her Eſcape, which by the favour of the Night and the haſt ſhe made, carried her the next Morning about 13 or 14 Miles out of Town as far as <hi>Sunbury</hi> a little Village by the <hi>Thames</hi>-ſide in <hi>Middleſſex,</hi> where ſhe ſtaid the next day at a Publick Houſe, pretending that her own Mother being Dead, and her Father Married a ſecond Wife, ſhe in favour of ſeveral Children which ſhe brought him, dealt very Severely with her, which had forced her to ſeek her Fortune, and that ſhe was willing to get in<g ref="char:EOLhyphen"/>to an Honeſt Service, if any ſuch preſented it ſelf: Which a ſubſtantial Far<g ref="char:EOLhyphen"/>mer in the Town hearing of took her in and Entertained her.</p>
+            <p>In this place ſhe had not lived above a Month, when obſerving that ſeveral <hi>Gypſies</hi> uſed often to come and Lodge in a Barn belonging to her Maſter: She would often out of Curioſity only at firſt repair to the ſaid <hi>Gypſies</hi> to know her future Fortunes, which they flattered her would be much to her Advantage provided ſhe would Joyn with them, and take ſuch courſe of Livelyhood as they did; which ſhe was not much averſe to, having noted that they lived Merrily, and wanted nothing in their Straw that might make ſuch a Life Grateful to them, which they finding, told her if ſhe would get what Plate or money ſhe could from her Maſter that was very Rich, ſhe ſhould be admitted into their Number, and be made much of amongſt them, appointing her the next Night to get off with the Booty, and to come to them at Midnight; and ſhe ſhould have a Guide to convey her to another Road far enough out of the way of her Maſters Reach: To this Propoſition ſhe ſoon Hearkned, and the next Night Robb'd the Farmer of Plate and Money to the value of 40 <hi>l.</hi> with which under the Conduct of a Brother <hi>Gipſy,</hi> who was for ſome time afterwards her Doxy, they Travelled through <hi>Kingſton,</hi> in the way towards <hi>Guilford,</hi> where the general Meet<g ref="char:EOLhyphen"/>ing was concluded upon.</p>
+            <p>Being thus admitted into this Gang, the idle Life very well ſuited with her humour, and ſhe was ſoon perfect in their manner of Converſation and Gibberidg, inſomuch, that one of them was a greater Crafts Miſtreſs in the Art of Deceit than her ſelf, before ſhe had been with them a Year, and had gained the Age of Sixteen, being ſoon after one of their chief-Ringleaders: but percieving with her ſelf that the petty Cheats and Thievery of theſe her Companions, which ſeldom extended beyond the Rooſt or the Hedge, in Robbing the firſt of their Pullen or the laſt of it's Linnen, or at moſt now and then picking a Pocket, was much below the greatneſs of her Deſignes, which ſhe now began to Thirſt after: ſhe reſolved to take the firſt opportunity to de<g ref="char:EOLhyphen"/>ſert them, and live on her own Politicks.</p>
+            <p>To which end having choſen out one of the Wittyeſt of theſe Blades that had Aſſociated with her all along as Bedfellow: theſe two Plotted to<g ref="char:EOLhyphen"/>gether, and forſook the other part of the Gang, changing their Habits and deſigned for the Weſt of <hi>England:</hi> In which Road having Travelled for about two Days, they at laſt came to a Bye Houſe upon the way, where they deſired a Lodging, and of which they had been Informed as they came along that the Maſter was very Rich, and had a great deal of Money by him: where being Entertained, the honeſt Hoſt little thinking what Gueſts he had; afforded the beſt they called for, they being very Liberal in their
+<pb n="4" facs="tcp:57134:3"/> Expence, Drinking and Eating Heartily: After Supper was over, wherein they had their Landlords Company, they complained they were a Weary and prepared for Bed: Where they had not lain an Hour but hearing all things quiet in the Houſe, they ſlip'd out of their Beds, and geting into their Landlords Chamber, they ſet a Piſtol to his Breaſt, Swearing they would certainly Murder him if he did not immediately diſcover where his Treaſure lay: Which the old Man very unwillingly did, tho under pro<g ref="char:EOLhyphen"/>miſe of his Life, he at laſt condeſcended thereunto: Hereupon binding him Hand and Foot, they ſearched his Cheſts, and taking out to the value of 40 <hi>l.</hi> having ſecured the reſt of the Houſe in like manner, they made off, having the N<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght before them to Travel Forward.</p>
+            <p>But being apprehenſive that as ſoon as the Morning came the Robbery would be Diſcovered and a Hue and Cry perſue them; They therefor thought ſit before they entred any Houſe to change their Garb, and began to think how to accompl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh the ſame, which they were not long contriving of, for at t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me Inſtant came by two Gentlemen juſt in the Twilight of the morning well mounted<g ref="char:punc">▪</g> which when they Eſpyed they were reſolved to attack To which <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d the Fellow having a good. Quarter ſtaff and Jenny her Piſtolls at the paſſage of a bridge they got up with the two Travellers, who not at all ſuſpecting their Danger, one of them received a Blow of the Quarter<g ref="char:EOLhyphen"/>ſtaffe, which Diſmounted him, and the ſecond imagining a greater Strength near them, ſurrendred himſelf upon Preſenting <hi>Jenny</hi>'s Piſtol. They being thus ſecured they drew them aſide into an adjacent Wood, where they made them Strip and and change Cloaths with them; Taking likewiſe all their ready Money; and tying the ſaid Parties with their Hands behind them to two Trees; they Mounted their freſh Horſes and Rid away: Whil'ſt in the mean time the two Travellers Condoled their Condition, and could not ſtir till about ſix a Clock in the Morning it being Summer time the Wood-Men came to Work and Looſed them, of whom they enquired the next way to the neareſt Town, which being directed in, tho the ſame was about four Miles diſtant, they were reſolved to make thitherwards: in the Travelling whereof, the Hue and Cry being out againſt <hi>Jenny</hi> and her Husband, overtakes the two Gentle<g ref="char:EOLhyphen"/>men, who having the ſame Garb as the Parties to them Deſcribed, they were forthwith Apprehended, and being carried before a Magiſtrate, notwithſtand<g ref="char:EOLhyphen"/>ing thei<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> denial, and the Relation of the Robbery aforeſaid, they were forced to put in Bail and anſwer the ſame at the next <hi>A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zes.</hi>
+            </p>
+            <p>During all which time <hi>Jenny</hi> our now Knight Errant and her ſaid Comrade Rid onward, Rejoyceing in their Good Succeſs, every Day committing ſome new Robbery or other, to the great encreaſe of their Confidence and Store. <hi>Jane Voſs</hi> ſtill continuing her Manlike Garb, and Travelling the Country as a Gentleman of Fortune: But as the old Proverb hath it, the Pitcher goes not ſo often to the Well, but it comes Broken Home at Laſt: So in the mid'ſt of this Sun-ſhine of Proſperity, the Clouds of Adverſity fell at length in ſhowers up<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n her Head: For one Day going into a Fair to fell a Horſe which they had worn out, in a Market Town in <hi>Wiltſhire,</hi> the Party from whence they Stole the ſame came by chance thither, and owning the Horſe, they were both Apprehended and clap'd into Goal.</p>
+            <pb n="5" facs="tcp:57134:3"/>
+            <p>This croſs Adventure was not a little Baulk to our two Gallants, who were miſerably Loaded with <hi>Irons,</hi> and the <hi>Aſſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zes</hi> drawing on, they began to be Apprehenſive of that Fate that Threatned them, which ſet <hi>Jenny</hi>'s Brains a Working how to deliver her ſelf, ſhe being all this while in Mans Cloaths and her Sex undiſcovered, which made much for her Advantage, for being of a Comely Perſonage, and having the Beauty of a Woman to add to the appea<g ref="char:EOLhyphen"/>rance of Manhood, the ſame was taken notice of by the Goalers Wife, who had more than a Months mind to be dealing with her, which <hi>Jenny</hi> ſoon ob<g ref="char:EOLhyphen"/>ſerved, and improved, inſomuch that ſhe grew every day more in Favour than other, and at laſt by her means got rid not only of her own, but her Comerades <hi>Irons,</hi> and ſoon after of her Impriſonment: For the Gaolers Wife being very eager to bring her ſuppoſed Gallant to her Embraces, (and withal having no good Opinion of her H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sband, who was Old and Peeviſh) appoin<g ref="char:EOLhyphen"/>ted her one Evening to come to her Chamber, her Husband being out of the way; and fearing leaſt the ſame ſhould come to a Diſcovery, ordered the meeting to be in the Dark, and injoyned each to the other the ſtricteſt Silence Imaginable.</p>
+            <p>The hour appointed came, and <hi>Jenny</hi>'s Husband was ordered to carry on the firſt ſcene of this Comedy, hopeing thereby to accompliſh both their Liberties; nor indeed was he wanting in his Part: tho it anſwered not his Ex<g ref="char:EOLhyphen"/>pectations<g ref="char:punc">▪</g> but releaſed <hi>Jenny</hi> only, for he gave the Goalers Wife the great<g ref="char:EOLhyphen"/>eſt Satisfaction ſhe could hope for, apprehending it all the while to be <hi>Jenny</hi>'s own Perſon, for whom ſhe had an extraordinary Affection. And the next Morning returning her Thanks accordingly, at which time the Goalers Wife: agreed to give way to her Eſcape, and run Fortunes with her. To Facilitate which, a Suit of Womens Apparrel was provided to array <hi>Jenny,</hi> and the next Night appointed for her Eſc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pe, which tho ſhe would fain have had ac<g ref="char:EOLhyphen"/>companied by that of her Comerade, yet could ſhe obtain no more than her own, the Goalers Wife being jealous, that if they went out together they would decieve and deſert her: Hereupon <hi>Jenny</hi> was forced to leave her firſt pretended Husband, who the next <hi>Aſſizes</hi> ſuffered for the Robbery, whilſt in the mean time <hi>Jane Voſs</hi> had got far enough from the reach of her Adverſary, for by the favour of the Promiſe aforeſaid, at the Hour appointed ſhe found the Door Opened, and the Goalers Wife ready to diſcharge her, telling her that there was at ſuch a place without the Eaſt part of the Town a little Houſe at the Sign of the <hi>Red-Croſs,</hi> where if ſhe tarried half an Hour ſhe would come and bring her a Horſe and <hi>Pill<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on,</hi> on which ſhe might Ride to a Place of Safety: But <hi>Jenny</hi> not intending to be ſo Incumbred took the quite contrary Road, and Travelled with all the ſpeed her Feet could carry her<g ref="char:punc">▪</g> that Night, till the next Morning coming to a Town where the Waggon ſtood for <hi>London:</hi> She takes place therein as a maid that went to ſeek a Service in Town, and accordingly Eſc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ped, whil'ſt the Diſappointed Gaolers Wife La<g ref="char:EOLhyphen"/>menting the Infidelity of her ſuppoſed Lover, was overtaken by her enraged Husband, who ever after made her lead a worſe Life than before this Fault ſhe had done.</p>
+            <p>But <hi>Jenny Voſs</hi> being thus eſcaped got ſafe to <hi>London,</hi> where ſhe heard of the Death of her Father and Mother, and ſoon after of her Nomi<g ref="char:EOLhyphen"/>nal
+<pb n="6" facs="tcp:57134:4"/> Husband whom ſhe left in <hi>Goal</hi> as aboveſaid, which began a little to affect her, conſidering how narrowly ſhe had Eſcaped what afterwards ſhe too Fatally taſted; yet ſuch Thoughts ſoon Vaniſhed, and the ſweetneſs ſhe had Experienced in the former Courſe of Life ſhe had now for ſome Years led; In<g ref="char:EOLhyphen"/>duced her to follow the ſame for the Future; therefore ſoon after<g ref="char:EOLhyphen"/>wards hearing of a Service in a Family of Reputation, ſhe works her ſelf there<g ref="char:EOLhyphen"/>into by a falſe Name, and by the firſt opportunity runs away, carrying with her a conſiderable quantity of <hi>Plate</hi> and Goods to a great Value: Of which being poſſeſt ſhe began to conſider how ſhe ſhould diſpoſe thereof, being a Stranger in Town and not knowing the Methods of this Trade ſo well as that ſhe formerly Practiced in the Country; yet being drove to ſome Straits, and wanting Money, ſhe at laſt ventures into a Brokers Shop about <hi>Weſtminſter,</hi> where ſhe offers ſome of the Goods to Pawn, where, as it hapned ſhe lit on a Rog<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e for her Turn, who apprehending the Goods to be Stole, ſignified as much to her, bidding her not to be Diſcouraged, for that when ſhe had any thing of the like Nature he would vend the ſame for her to Advantage: Which tho <hi>Jane</hi> at firſt denied. yet reſorting afterwards to his ſhop and ſeeing others come upon the like Etrand, ſhe grew better acquainted with him, and com<g ref="char:EOLhyphen"/>menced a Friendſhip, which was not a little helpful to her in the enſuing courſe of her Thievery, for by his means ſhe came acquainted with all the Cheats and Pickpockets in Town: Of whom ſhe not only learned the Miſtery but was ſoon after matriculated into their Society, and became one of their moſt applauded Artiſans. Amongſt many of whoſe Exploits of this kind, I ſhall only recound the following.</p>
+            <p>A Gentleman being with his Friend at a Tavern, and coming to pay his Reckoning found that his Pocket was Pick'd, upon which his Company ſeeing him Concerned, he having loſt 10 <hi>Guineys</hi> beſides Silver, began to Laugh at him, ſaying he had been with ſome Wench or other who had Robb'd him, or otherwiſe it was impoſſible he ſhould have loſt his Money. Hereupon being in a great Fret, he began to ſwear that it might as well have happened on any of them as himſelf, had they been in ſuch a Croud as he lit upon, come<g ref="char:EOLhyphen"/>ing out of a Church in <hi>London:</hi> Upon which one of the Company replied, that he would lay any Man a Wager of 5 <hi>l.</hi> that no one in <hi>England</hi> ſhould ever p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck his Pocket, without his finding them in the Action. Say you ſo anſwers the Gentleman, I'le take you up that Wager, and lay you 5 <hi>l.</hi> if you carry your Watch in your Pocket for a Fortnight together, it ſhall be taken thence: 'Tis done anſwers the other and accordingly bound the Wager agree<g ref="char:EOLhyphen"/>ing that if in the ſame time the <hi>Watch</hi> was called for, and he had not the ſame to produce, the Money ſhould be Loſt. The Wager being thus laid, the Gentleman goes immediately to <hi>Newgate</hi> and inquires for an Ingenious Pickpocket, to whom he was Directed, and by him to <hi>Jenny Voſs,</hi> who was at large as a Perſon for his Turn, to whom the Gentleman goes, and who in ſhort undertoom the ſame; and having had ſight of the Party whoſe <hi>Watch</hi> ſhe was to take; ſhe dreſſes her ſelf in very good Habit, and follows the Gentleman to the <hi>Cuſtom-Houſe,</hi> where coming up <hi>Water-Lane</hi> ſhe croſſes his way pretends to be in a Swoon, and fal's down, hereupon the Gentleman in Civility lent her his Aſſiſtance to take her up, in which Opportun<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty ſhe got
+<pb n="7" facs="tcp:57134:4"/> her Booty, and ſoon conveyed it to the party that hired her, who hereby check<g ref="char:EOLhyphen"/>ed the others Confidence, and won his Wager.</p>
+            <p>By this and other Exploits <hi>Jenny</hi> having got in great reputation a<g ref="char:EOLhyphen"/>mongſt her Comerades, grew immediately acquainted with the greateſt of the Gang, and particularly with <hi>Sadler</hi> and other of his Company who ſtole my <hi>Lord Chancellours Mace,</hi> and committed diverſe other Robbe<g ref="char:EOLhyphen"/>ries; She being alwayes called to Conſult when any thing of moment was to be done: Nor was leſs owing to her contrivance, than the ſuc<g ref="char:EOLhyphen"/>ceſs of moſt of their Robberies, at many of which ſhe was her ſelf pre<g ref="char:EOLhyphen"/>ſent, Particularly that which was committed upon the Old Coverous Vic<g ref="char:EOLhyphen"/>tualler who had hoarded up 3. or 400 l. and hid the ſame ſo covertly, that tho they had broke into his houſe ſeveral nights, they could never find the ſame. Hereupon <hi>Jenny</hi> contrives one Evening to go and Drink at the Houſe, and ſet Fire on ſome part of the Hangings or Wainſcott, when the Old Man was within, thinking that the firſt thing he would than ſtrive to ſave would be his money; and ſo dogging him, they might find where the ſame was hoarded: Which accordingly fell out: For no ſooner was Fire cryed, but away runs the Old Fellow to the Houſe of Office which was above ſtairs, under the Seat whereof he had made a Cupboard, and ſecured his money; Which they Perceiving, quickly quenched the fire and the next Night got his money, to the Heart-breaking of the old Miſer.</p>
+            <p>Another of her Famed Contrivances was that of the Doctor of <hi>Hogsdon,</hi> which was performed by <hi>Sadler:</hi> The Fact was, that <hi>Sadler</hi> coming to a <hi>Gold<g ref="char:EOLhyphen"/>ſmith</hi> in <hi>London</hi> choſe a Cupboard of <hi>Plate</hi> of a conſiderable Value, which he ſaid was for his Friend the Doctor aforeſaid; to whom he went the Night before and agreed to ſend in a Kinſman of his whom he pretended Diſtracted, giveing him two or three <hi>Guineys</hi> Earneſt, and Promiſing him 20 <hi>l.</hi> for his Cure, and 10 <hi>s.</hi> a Week during the time he was at his Houſe, alleadging withal that he believed the cauſe of his Kinſmans Diſtraction was the too great love of the World, for that in his Fitts he would talk of nothing but <hi>Plate</hi> and <hi>Money:</hi> Upon which the Doctor promiſed his Cure, and <hi>Sadler</hi> took his Leave, but returning preſently told him he had another Favour to beg, which was that when he came with his Kinſman he might be put out of the Houſe ſo as no notice might be taken of him by his Kinſman, who if he ſee he was about to leave him, would very unwillingly part with him, which the Doctor like<g ref="char:EOLhyphen"/>wiſe promiſed. Having thus laid the matter, the next Morning he goes to the <hi>Goldſmith,</hi> and deſires him to let his Servant go with him and carry the <hi>Plate,</hi> and he ſhould have his Money, which the <hi>Goldſmith</hi> conſented to, and accordingly the Servant went with him to the Doctors, where taking the <hi>Plate</hi> of him' he left him walking below whileſt he goes up to the Doctor, whom he acquainted that he had brought his Kinſman deſiring his Care, and that he might be ſet out at the Back Door, which he was directed to and ſo got off with the <hi>Plate,</hi> leaving the Apprentice to be Blouded and Drenched by the Doctor, who apprehended him all the while in a great Diſtraction, the Young man talking of nothing but <hi>Money</hi> and <hi>Plate,</hi> which the Doctor took to be his Ravings, and accordingly Bound him in his Bed and uſed the means he thought proper for his Recovery, till the <hi>Goldſmith</hi> coming to Inquire after him, diſcovered the Cheat.</p>
+            <pb n="8" facs="tcp:57134:5"/>
+            <p>Thus far <hi>Jenny,</hi> had pretty well proſpered in her Affairs, now and then only clapp'd up into <hi>Newgate,</hi> and diſcharged the next Seſſions: Till at length ha<g ref="char:EOLhyphen"/>ving contrived with <hi>Sadler</hi> the Stealing my Lord Chancellors <hi>Mace,</hi> ſome part of the ſame in the Search was found under her Bed: For which Fact being together with <hi>Sadler</hi> Arraigned, ſhe was found Guilty, but by the Favour of the Court obtained to be Tranſported, as ſoon after ſhe was, and accordingly ſerved her time Beyond Sea; during which time ſhe could not forget, her old Pranks, but uſed not only to Steal her ſelf, but incited all others that were her fellow Servants to Pilfer and Cheat what they could from their Maſter, ſo that he was glad to be rid of her; and the rather for that ſhe had whead<g ref="char:EOLhyphen"/>led in a Son of the Planters, who uſed to Lye with her and ſupply her with Moneys, which ſhe was always averſe to the want of.</p>
+            <p>After her time was out ſhe came again for <hi>England,</hi> and quickly found many of her Old Comerades with whom ſhe continually aſſociated, reſolving not to leave thoſe Courſes ſhe had been all her Life bred in: And here I might recound a multitude more of her Robberies, which this little ſheet cannot croud in; and for which reaſon I muſt omitt a journey ſhe made to <hi>Ireland,</hi> and a Voyage to <hi>Holland:</hi> in both which Places ſhe plaid her part ſo cun<g ref="char:EOLhyphen"/>ningly that ſhe came off with grear Booties. Particularly in <hi>Holland,</hi> where amongſt other things ſhe cheated a <hi>Dutch Merchant</hi> of 3 <hi>Great Diamonds,</hi> and a <hi>Pearle Neck-lace</hi> to a conſiderable Vallue. But to haſten to her End which drew near: Comeing to <hi>London</hi> ſhe gets in with one <hi>Robinſon</hi> who was hanged ſome 4 or 5 <hi>Seſſions</hi> paſt for <hi>S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ealing</hi> of a <hi>Horſe;</hi> and either ta<g ref="char:EOLhyphen"/>king one anothers word, or makeing a <hi>Weſtminſter</hi> Wedding of it, they lay and companied together, till <hi>Newgate</hi> and the <hi>Gallows</hi> ſued out their Divorce. For <hi>Jenny</hi> haveing <hi>ſtollen</hi> a <hi>Silver Tankard</hi> from one <hi>John Warren</hi> of St. <hi>Olive Silver-ſtreet</hi> in the Pariſh of <hi>Cripplegate</hi> on the 19<hi>th.</hi> day of <hi>March</hi> laſt, was found guilty of the ſaid Fact on the 10<hi>th.</hi> day of <hi>April</hi> 1684. And ſhould then have recieved Sentence of Death, but that ſhe pleaded her Belly: The better to colour which, and make the Jury of Women believe ſhe was quick with Child, tho indeed ſhe was not, ſhe Drank about a Gallon of <hi>New-A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> and <hi>Honey,</hi> and ſo deceived them, hopeing in this time to gain her Pardon, tho ſhe could not accompliſh the ſame, there being no place found for Mercy where ſo great and Notorious a Criminal was concerned: Wherefore at the laſt Seſſions in <hi>December</hi> ſhe was Sentenced upon the former Indictment, and on the 19<hi>th.</hi> of the ſaid Month Executed at <hi>Tyburn:</hi> At her Death ſhe ſeemed to Bewail her former Life, and grieved that ſhe had been the Cauſe of many Perſons falling into Bad Courſes, which had lead them to untimely Ends: For according to Report no leſs than 18 who had been her Reputed Husbands or Friends had ſuffered for their Robberies</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Entred according to Order.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Croom,</hi> at the <hi>Blue-Ba<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> in <hi>Thames-ſtreet,</hi> over againſt <hi>Baynard</hi>'s <hi>Caſtle.</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
